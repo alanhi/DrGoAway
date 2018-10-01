@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DrGoAway</string>
+    <string name="string_username">帐号</string>
+    <string name="string_passwd">密码</string>
+    <string name="string_logout">注销</string>
+    <string name="string_login">登录</string>
+    <string name="string_dashboard">自助服务</string>
+    <string name="string_tip">可以在路由器中使用</string>
+    <string name="string_version">v1.0</string>
+    <string name="msg_login_failed">密码不正确或流量不足</string>
+    <string name="msg_login_failed_unknown">登陆失败_未知错误</string>
+    <string name="msg_login_succeeded">登陆成功</string>
+    <string name="msg_connect_failed">连接失败</string>
+    <string name="msg_server_error">服务器错误</string>
+    <string name="msg_logout_succeeded">注销成功</string>
+</resources>
