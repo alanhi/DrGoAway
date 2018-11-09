@@ -6,7 +6,7 @@
     <string name="string_login">Sign in</string>
     <string name="string_dashboard">Dashboard</string>
     <string name="string_tip">Can be used in routers</string>
-    <string name="string_version">v1.0</string>
+    <string name="string_version">v1.1</string>
     <string name="msg_login_failed">Incorrect password or run out of traffic</string>
     <string name="msg_login_failed_unknown">Login failed_unknown</string>
     <string name="msg_login_succeeded">Login succeeded</string>

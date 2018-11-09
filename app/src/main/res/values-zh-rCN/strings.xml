@@ -7,7 +7,7 @@
     <string name="string_login">登录</string>
     <string name="string_dashboard">自助服务</string>
     <string name="string_tip">可以在路由器中使用</string>
-    <string name="string_version">v1.0</string>
+    <string name="string_version">v1.1</string>
     <string name="msg_login_failed">密码不正确或流量不足</string>
     <string name="msg_login_failed_unknown">登陆失败_未知错误</string>
     <string name="msg_login_succeeded">登陆成功</string>
